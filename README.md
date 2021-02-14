@@ -9,3 +9,5 @@ Extract the zip by right clicking and extract it to your preferred location
 ## How to run the project
 
 Double click index.html file.
+
+Live: https://gabrieljgb.github.io/sticky-notes/
